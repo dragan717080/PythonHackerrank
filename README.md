@@ -10,7 +10,7 @@
 ### <a name="no-link"></a>Collections
 ### <a name="no-link"></a>Date And Time
 ### <a name="no-link"></a>Debugging
-### <a name="no-link"></a>Errors And Exceptions
+### <a name="no-link"></a>Errors And Exceptions &#10003;
 ### <a name="no-link"></a>Introduction &#10003; 
 ### <a name="no-link"></a>Itertools
 ### <a name="no-link"></a>Math
